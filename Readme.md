@@ -25,7 +25,7 @@ Coin Forge is a decentralized application (DApp) that allows users to deploy the
 ## Deployment
 
 - **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0x2689D4e33da13Cc51dEEcD2ff32D115EB908Ad4c)
-- **Coin Used**: MNT
+- **Coin Used**: GAS
 
 
 ## Technologies Used
@@ -95,3 +95,15 @@ The user interface is designed to be intuitive and easy to navigate:
 - **Gas Optimization**: Enhancing transaction speeds and reducing gas costs for deployments and transfers.
 - **Transaction History**: Implementing a feature to view past transfers directly within the DApp.
 - **Enhanced UI**: A more polished and responsive design with advanced user interactions.
+
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-14 at 7 18 38 PM" src="https://github.com/user-attachments/assets/57752b8a-1474-4947-a3da-6967c4ae30a7" />
+<img width="1440" alt="Screenshot 2024-12-14 at 7 20 08 PM" src="https://github.com/user-attachments/assets/9384101c-c0c0-4a15-ae5c-668d860a8e54" />
+<img width="1440" alt="Screenshot 2024-12-24 at 5 00 12 PM" src="https://github.com/user-attachments/assets/8c604c3e-8d7a-4c96-946c-70045af4671e" />
+<img width="1438" alt="Screenshot 2024-12-24 at 5 01 51 PM" src="https://github.com/user-attachments/assets/f43915aa-953f-41e9-ae32-35daa30e8696" />
+
+
+
+
+
+
